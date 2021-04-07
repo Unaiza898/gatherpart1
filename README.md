@@ -5,7 +5,7 @@ A new Flutter application.
 ## Getting Started
 Demo
 
-![flutter](https://user-images.githubusercontent.com/65740643/113941990-1d908600-97ce-11eb-887a-690ade93d06a.gif)
+![flutter](https://user-images.githubusercontent.com/65740643/113942286-8d9f0c00-97ce-11eb-8163-af254a8b3a8c.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
